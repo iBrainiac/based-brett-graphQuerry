@@ -1,0 +1,3 @@
+I developed a Subgraph on the Base chain to query transaction data from the Brett Memecoin project. The purpose was to explore experimental applications of MEME tokens within Base's ecosystem while learning Subgraph's functionality.
+Transactions for both buying and selling Brett Memecoins are indexed, allowing real-time monitoring of liquidity inflows and outflows. This proof-of-concept Subgraph demonstrates the potential for on-chain market analytics dApps.
+The code is available online for review and extension by other developers. I aim to continue experimenting with Subgraphs to uncover innovative use cases across Base's growing suite of protocols.
